@@ -1,0 +1,442 @@
+[
+ {
+  "url": "http://localhost:8099/Kozielska/Zone_A",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/_next/static/css/2df9c2e5bee8a439.css",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/icons/logo.svg",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/icons/compas_Icon_01.svg",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/_next/static/chunks/webpack-4294890408b69a6f.js",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/plans/1.2.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/plans/1.1.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/plans/1.3.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/plans/1.4.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/plans/1.5.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/plans/1.6.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/restauracja.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/silownia.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/centrummedyczne.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/hotel.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/drogeria.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/warzywniak.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/supermarket.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/miesny.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/placzabaw.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/ogrod.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/hamaki.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/kladka.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/patiowejscie.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/patiowejsciedwa.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/piekarnia.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/zabka.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/kawiarnia.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/jubiler.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/kwiaciarnia.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/paczkomat.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia//VinodeKozielska//Kozielska4/amenities/padel.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/fonts/altone/Altone-Bold.ttf",
+  "status": 404,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/fonts/altone/Altone-Bold.ttf",
+  "status": "FAILED:net::ERR_ABORTED",
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/_next/static/chunks/664-cbbc89331c4010bd.js",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/_next/static/chunks/153-c6faa1382c412ea4.js",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/_next/static/chunks/893-1f0e4f6556e758d8.js",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/_next/static/chunks/95b64a6e-5f1d5482a43c3774.js",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/_next/static/chunks/framework-2e2e0bfa8bda2099.js",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/_next/static/chunks/pages/%5Bproject%5D/%5Bzone%5D-26be85a602f3f570.js",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/_next/static/ANU6VnI3Xn4hJixUdj7K3/_buildManifest.js",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/_next/static/chunks/ae51ba48-f6bb402177e7e1ff.js",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/_next/static/chunks/main-b3688e3471a4d9c2.js",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/_next/static/chunks/296-3a5e1879c9cf7e4c.js",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/_next/static/ANU6VnI3Xn4hJixUdj7K3/_ssgManifest.js",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/static/site.webmanifest",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/_next/static/chunks/pages/_app-3c49609d86068bcb.js",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+  "status": 404,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+  "status": "FAILED:net::ERR_ABORTED",
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/_next/static/chunks/603.512fc6bc0cb60ae8.js",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/api/apartments?query=zone=Zone_A&building=&page=1&pageSize=2000",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/api/apartmentsSide",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/Thumbnails/Thumbnail_CameraKozielskaZoneA3.jpeg",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/Thumbnails/Thumbnail_CameraKozielskaZoneA1.jpeg",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/Thumbnails/Thumbnail_CameraKozielskaZoneA2.jpeg",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/Thumbnails/Thumbnail_CameraKozielskaZoneA4.jpeg",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/api/lang",
+  "status": 500,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero2_CameraKozielskaZoneHero2.mp4",
+  "status": 206,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero1_CameraKozielskaZoneHero1.mp4",
+  "status": 206,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero2_CameraKozielskaZoneHero1.mp4",
+  "status": 206,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/hdr/city_small.exr",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero2_CameraKozielskaZoneHero2.mp4",
+  "status": 206,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero2_CameraKozielskaZoneHero2.mp4",
+  "status": "FAILED:net::ERR_ABORTED",
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero1_CameraKozielskaZoneHero1.mp4",
+  "status": 206,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero2_CameraKozielskaZoneHero1.mp4",
+  "status": 206,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero1_CameraKozielskaZoneHero1.mp4",
+  "status": "FAILED:net::ERR_ABORTED",
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero2_CameraKozielskaZoneHero1.mp4",
+  "status": "FAILED:net::ERR_ABORTED",
+  "host": "?"
+ },
+ {
+  "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/models/BuildingA_Outlines.glb",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WdhyyTh89ZNpQ.woff2",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w9&skey=7bc19f711c0de8f&v=v31",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew9&skey=7bc19f711c0de8f&v=v31",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew9&skey=7bc19f711c0de8f&v=v31",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w9&skey=7bc19f711c0de8f&v=v31",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/_next/data/ANU6VnI3Xn4hJixUdj7K3/Kozielska/Zone_A.json?project=Kozielska&zone=Zone_A",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/draco/draco_decoder.wasm",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/draco/draco_wasm_wrapper.js",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero2_CameraKozielskaZoneHero1.mp4",
+  "status": 206,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/static/favicon.ong",
+  "status": 404,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/models/BuildingB_Outlines.glb",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/static/favicon.png",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/models/BuildingC_Outlines.glb",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/models/BuildingD_Outlines.glb",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/models/BuildingE_Outlines.glb",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/models/BuildingF_Outlines.glb",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/models/BuildingX_Outlines.glb",
+  "status": 200,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero1_CameraKozielskaZoneHero1.mp4",
+  "status": 206,
+  "host": "?"
+ },
+ {
+  "url": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero1_CameraKozielskaZoneHero1.mp4",
+  "status": "FAILED:net::ERR_ABORTED",
+  "host": "?"
+ }
+]

@@ -1,0 +1,73 @@
+{
+ "target": "/Kozielska/Zone_A/Kozielska_A1V/1_01?side=north&floor=1",
+ "url": "http://localhost:8099/Kozielska/Zone_A/Kozielska_A1V/1_01?side=north&floor=1",
+ "dom": {
+  "bodyLen": 402,
+  "body": "Porównanie Plan Jednostki Lokal Etap Powierzchnia Piętro Pokoje Cena Cena Za M² Lokal M 1.1 Lo. M 1.1 Etap 0 Powierzchnia 0 m² Piętro 1 Pokoje 1 Status Sprzedany 01 PRZEDPOKÓJ 6.31 м² 02 SALON Z ANEKSEM KUCHENNYM 31.86 м² 04 ŁAZIENKA 6.59 м² T1 TARAS 33.95 м² DODAJ MIEJSCE PARKINGOWE 50 000 zł PDF APARTAMENTU PROSPEKT INFORMACYJNY HISTORIA CEN Cena za m²: 0 zł Cena: 597 800 zł KONTAKT Plan Koziels",
+  "is404": false,
+  "canvases": 2,
+  "iframes": [
+   ""
+  ],
+  "imgs": [
+   "http://localhost:8099/icons/compas_Icon_01.svg",
+   "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/Thumbnails/Thumbnail_CameraPlanAFloorPlan1.jpeg"
+  ],
+  "pdfLinks": [],
+  "buttons": [
+   "Porównanie",
+   "DODAJ MIEJSCE PARKINGOWE 50 000 zł",
+   "PDF APARTAMENTU",
+   "PROSPEKT INFORMACYJNY",
+   "HISTORIA CEN",
+   "KONTAKT"
+  ]
+ },
+ "reqs": [
+  {
+   "s": 206,
+   "u": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaBuildingA1V1_CameraKozielskaBuildingA1V1.mp4"
+  },
+  {
+   "s": 206,
+   "u": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneA1_CameraKozielskaBuildingA1V1.mp4"
+  },
+  {
+   "s": 206,
+   "u": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart1-1_CameraPlanAApart1-1.mp4"
+  },
+  {
+   "s": 206,
+   "u": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneA1_CameraKozielskaBuildingA1V1.mp4"
+  },
+  {
+   "s": 206,
+   "u": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart1-1_CameraPlanAApart1-1.mp4"
+  },
+  {
+   "s": 200,
+   "u": "http://localhost:8099/api/apartments?query=zone=Zone_A&building=Kozielska_A1V&page=1&pageSize=2000"
+  },
+  {
+   "s": 200,
+   "u": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/Thumbnails/Thumbnail_CameraPlanAFloorPlan1.jpeg"
+  },
+  {
+   "s": 206,
+   "u": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneA1_CameraKozielskaBuildingA1V1.mp4"
+  },
+  {
+   "s": 404,
+   "u": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaBuildingA1VFloorPlanA_CameraKozielskaBuildingA1VFloorPlanA.mp4"
+  },
+  {
+   "s": 404,
+   "u": "http://localhost:8099/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaBuildingA1V1_CameraKozielskaBuildingA1VFloorPlanA.mp4"
+  }
+ ],
+ "errors": [
+  "CONSOLE Failed to load resource: the server responded with a status of 404 (Not Found)",
+  "CONSOLE Failed to load resource: the server responded with a status of 500 (Internal Server Error)",
+  "CONSOLE WebSocket connection to 'ws://localhost/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+ ]
+}

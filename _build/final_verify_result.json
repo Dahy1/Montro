@@ -1,0 +1,9 @@
+{
+ "badFailed": [],
+ "badConsole": [],
+ "allFailed": [
+  "404 /fonts/altone/Altone-Bold.ttf",
+  "FAIL /fonts/altone/Altone-Bold.ttf",
+  "500 /api/lang"
+ ]
+}

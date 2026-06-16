@@ -1,0 +1,7 @@
+# dependencies (regenerable; the runtime server uses only Node built-ins)
+node_modules/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log

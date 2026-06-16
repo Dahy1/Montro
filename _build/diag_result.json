@@ -1,0 +1,71 @@
+{
+ "state": {
+  "title": "Kozielska",
+  "hasCanvas": true,
+  "canvasSize": {
+   "w": 1920,
+   "h": 1080
+  },
+  "videoCount": 1,
+  "videos": [
+   {
+    "src": "Sequencer_CameraKozielskaZoneHero1_CameraKozielskaZoneHero1.mp4",
+    "readyState": 4,
+    "paused": false,
+    "w": 1920,
+    "h": 1080,
+    "err": null
+   }
+  ],
+  "ctaButtons": [
+   "kontakt",
+   "Porównanie",
+   "SPRAWDŹ OFERTY",
+   "Filtry 0",
+   "Porównanie 0"
+  ],
+  "bodySnippet": "Przedstawione obrazy i wirtualne spacery zostały stworzone wyłącznie w celach ilustracyjnych i nie oddają w pełni rzeczywistości. Porównanie Plan Jednostki Lokal Etap Powierzchnia Piętro Pokoje Cena Cena Za M² Kozielska Park Wysoka jakość. W zielonym zaciszu. SPRAWDŹ OFERTY Wybierz budynek Show Filt"
+ },
+ "listState": {
+  "cardCount": 6,
+  "offers": "72",
+  "firstHref": "/Kozielska/Zone_A/Kozielska_A1V/1_01?side=north&floor=1"
+ },
+ "filterTest": {
+  "before": "72",
+  "after": "72",
+  "hadToggle": true,
+  "hadRoomBtn": false
+ },
+ "navResult": {
+  "clicked": "/Kozielska/Zone_A/Kozielska_A1V/1_01?side=north&floor=1"
+ },
+ "landed": "http://localhost:8099/Kozielska/Zone_A/Kozielska_A1V/1_01?side=north&floor=1",
+ "detailState": {
+  "body": "404 Not Found",
+  "hasViewer": false,
+  "imgs": 0
+ },
+ "errors": [
+  "CONSOLE: Failed to load resource: the server responded with a status of 404 (Not Found)",
+  "CONSOLE: Failed to load resource: the server responded with a status of 500 (Internal Server Error)",
+  "CONSOLE: WebSocket connection to 'ws://localhost/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED",
+  "CONSOLE: JSHandle@error"
+ ],
+ "failed": [
+  "404 /fonts/altone/Altone-Bold.ttf",
+  "FAIL[net::ERR_ABORTED] /fonts/altone/Altone-Bold.ttf",
+  "404 /cdn-cgi/challenge-platform/scripts/jsd/main.js",
+  "FAIL[net::ERR_ABORTED] /cdn-cgi/challenge-platform/scripts/jsd/main.js",
+  "500 /api/lang",
+  "FAIL[net::ERR_ABORTED] /vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero2_CameraKozielskaZo",
+  "FAIL[net::ERR_ABORTED] /vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero1_CameraKozielskaZo",
+  "404 /static/favicon.ong",
+  "404 /_next/data/ANU6VnI3Xn4hJixUdj7K3/Kozielska/Zone_A/Kozielska_A1V/1_02.json?side=north&floor=1&project=Kozielsk",
+  "404 /_next/data/ANU6VnI3Xn4hJixUdj7K3/Kozielska/Zone_A/Kozielska_A1V/1_04.json?side=north&floor=1&project=Kozielsk",
+  "404 /_next/data/ANU6VnI3Xn4hJixUdj7K3/Kozielska/Zone_A/Kozielska_A1V/1_01.json?side=north&floor=1&project=Kozielsk",
+  "404 /_next/data/ANU6VnI3Xn4hJixUdj7K3/Kozielska/Zone_A/Kozielska_A1V/1_03.json?side=north&floor=1&project=Kozielsk",
+  "404 /Kozielska/Zone_A/Kozielska_A1V/1_01?side=north&floor=1",
+  "404 /favicon.ico"
+ ]
+}

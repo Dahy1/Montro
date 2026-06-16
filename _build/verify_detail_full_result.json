@@ -1,0 +1,32 @@
+{
+ "d1": {
+  "is404": false,
+  "len": 568,
+  "hasUnit": true,
+  "hasPrice": true,
+  "canvases": 2,
+  "head": "Przedstawione obrazy i wirtualne spacery zostały stworzone wyłącznie w celach ilustracyjnych i nie oddają w pełni rzeczy"
+ },
+ "ph": {
+  "had": true,
+  "svgEls": 14,
+  "dates": [
+   "2025-09",
+   "2026-02",
+   "2026-02",
+   "2026-04"
+  ]
+ },
+ "spa": "/Kozielska/Zone_A/Kozielska_A1V/1_01?side=north&floor=1",
+ "d2": {
+  "url": "/Kozielska/Zone_A/Kozielska_A1V/1_01",
+  "is404": false,
+  "hasUnit": true
+ },
+ "fails1": [
+  "404 /vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaBuildingA1VFloorPlanA_Camer"
+ ],
+ "fails2": [
+  "404 /vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaBuildingA1VFloorPlanA_Camer"
+ ]
+}

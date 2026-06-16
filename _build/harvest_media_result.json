@@ -1,0 +1,461 @@
+{
+ "all": [
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/centrummedyczne.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/drogeria.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/hamaki.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/hotel.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/jubiler.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/kawiarnia.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/kladka.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/kwiaciarnia.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/miesny.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/ogrod.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/paczkomat.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/padel.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/patiowejscie.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/patiowejsciedwa.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/piekarnia.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/placzabaw.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/restauracja.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/silownia.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/supermarket.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/warzywniak.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/amenities/zabka.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/plans/1.1.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/plans/1.2.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/plans/1.3.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/plans/1.4.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/plans/1.5.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia//VinodeKozielska//Kozielska4/plans/1.6.png",
+   "s": 200
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaBuildingA1V1_CameraKozielskaBuildingA1V1.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaBuildingA1V1_CameraKozielskaBuildingA1VFloorPlanA.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaBuildingA1VFloorPlanA_CameraKozielskaBuildingA1VFloorPlanA-in.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaBuildingA1VFloorPlanA_CameraKozielskaBuildingA1VFloorPlanA.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneA1_CameraKozielskaBuildingA1V1.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneA1_CameraKozielskaZoneA1.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero1_CameraKozielskaZoneA1.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero1_CameraKozielskaZoneHero1.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero2_CameraKozielskaZoneHero1.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero2_CameraKozielskaZoneHero2.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart0-2_CameraPlanAApart0-2.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart0-3_CameraPlanAApart0-3.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart0-4_CameraPlanAApart0-4.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart1-1_CameraPlanAApart1-1.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart1-2_CameraPlanAApart1-2.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart1-3_CameraPlanAApart1-3.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart1-4_CameraPlanAApart1-4.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart1-5_CameraPlanAApart1-5.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart1-6_CameraPlanAApart1-6.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart1-7_CameraPlanAApart1-7.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart2-1_CameraPlanAApart2-1.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart2-10_CameraPlanAApart2-10.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart2-11_CameraPlanAApart2-11.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart2-12_CameraPlanAApart2-12.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart2-13_CameraPlanAApart2-13.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart2-2_CameraPlanAApart2-2.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart2-3_CameraPlanAApart2-3.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart2-4_CameraPlanAApart2-4.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart2-5_CameraPlanAApart2-5.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart2-6_CameraPlanAApart2-6.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart2-7_CameraPlanAApart2-7.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart2-8_CameraPlanAApart2-8.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart2-9_CameraPlanAApart2-9.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart3-1_CameraPlanAApart3-1.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart3-10_CameraPlanAApart3-10.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart3-11_CameraPlanAApart3-11.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart3-12_CameraPlanAApart3-12.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart3-13_CameraPlanAApart3-13.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart3-2_CameraPlanAApart3-2.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart3-3_CameraPlanAApart3-3.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart3-4_CameraPlanAApart3-4.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart3-5_CameraPlanAApart3-5.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart3-6_CameraPlanAApart3-6.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart3-7_CameraPlanAApart3-7.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart3-8_CameraPlanAApart3-8.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart3-9_CameraPlanAApart3-9.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart4-1_CameraPlanAApart4-1.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart4-10_CameraPlanAApart4-10.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart4-11_CameraPlanAApart4-11.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart4-12_CameraPlanAApart4-12.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart4-13_CameraPlanAApart4-13.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart4-2_CameraPlanAApart4-2.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart4-3_CameraPlanAApart4-3.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart4-4_CameraPlanAApart4-4.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart4-5_CameraPlanAApart4-5.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart4-6_CameraPlanAApart4-6.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart4-7_CameraPlanAApart4-7.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart4-8_CameraPlanAApart4-8.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart4-9_CameraPlanAApart4-9.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart5-1_CameraPlanAApart5-1.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart5-10_CameraPlanAApart5-10.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart5-11_CameraPlanAApart5-11.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart5-2_CameraPlanAApart5-2.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart5-3_CameraPlanAApart5-3.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart5-4_CameraPlanAApart5-4.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart5-5_CameraPlanAApart5-5.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart5-6_CameraPlanAApart5-6.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart5-7_CameraPlanAApart5-7.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart5-8_CameraPlanAApart5-8.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart5-9_CameraPlanAApart5-9.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart6-1_CameraPlanAApart6-1.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart6-10_CameraPlanAApart6-10.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart6-11_CameraPlanAApart6-11.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart6-2_CameraPlanAApart6-2.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart6-3_CameraPlanAApart6-3.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart6-4_CameraPlanAApart6-4.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart6-5_CameraPlanAApart6-5.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart6-6_CameraPlanAApart6-6.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart6-7_CameraPlanAApart6-7.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart6-8_CameraPlanAApart6-8.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAApart6-9_CameraPlanAApart6-9.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraPlanAFloorPlan_CameraPlanAFloorPlan.mp4",
+   "s": 206
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/Thumbnails/Thumbnail_CameraKozielskaZoneA1.jpeg",
+   "s": 200
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/Thumbnails/Thumbnail_CameraKozielskaZoneA2.jpeg",
+   "s": 200
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/Thumbnails/Thumbnail_CameraKozielskaZoneA3.jpeg",
+   "s": 200
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/Thumbnails/Thumbnail_CameraKozielskaZoneA4.jpeg",
+   "s": 200
+  },
+  {
+   "u": "/vmedia/VinodeKozielska/Kozielska4/Thumbnails/Thumbnail_CameraPlanAFloorPlan1.jpeg",
+   "s": 200
+  }
+ ],
+ "missing": []
+}

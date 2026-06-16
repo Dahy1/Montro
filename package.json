@@ -1,0 +1,16 @@
+{
+  "name": "kozielska-zone-a-clone",
+  "version": "1.0.0",
+  "description": "Self-contained offline clone of mieszkania.kozielskapark.pl/Kozielska/Zone_A",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "puppeteer-core": "^23.11.1"
+  }
+}

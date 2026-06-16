@@ -1,0 +1,22 @@
+const puppeteer = require('puppeteer-core');
+const CHROME = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
+const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36';
+const BASE = 'http://localhost:8099';
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+(async () => {
+  const browser = await puppeteer.launch({ executablePath: CHROME, headless: 'new', args: ['--no-sandbox', '--autoplay-policy=no-user-gesture-required', '--mute-audio', '--ignore-gpu-blocklist', '--use-gl=angle', '--use-angle=swiftshader', '--window-size=1600,1000'] });
+  const page = await browser.newPage();
+  await page.setUserAgent(UA);
+  await page.setViewport({ width: 1600, height: 1000 });
+  const miss = new Set();
+  page.on('response', (r) => { if (r.status() >= 400 && /vmedia|_next\/data|api\//.test(r.url()) && !/api\/lang/.test(r.url())) miss.add(r.status() + ' ' + r.url().split('/').slice(-1)[0].slice(0, 60)); });
+  await page.goto(BASE + '/Kozielska/Zone_A/Kozielska_A1V?project=Kozielska&zone=Zone_A&building=Kozielska_A1V', { waitUntil: 'networkidle2', timeout: 90000 });
+  await sleep(9000);
+  const state = await page.evaluate(() => ({ is404: /^404/.test(document.body.innerText.trim()), txt: document.body.innerText.replace(/\s+/g, ' ').slice(0, 160), canvases: document.querySelectorAll('canvas').length, video: (document.querySelector('video') || {}).currentSrc ? document.querySelector('video').currentSrc.split('/').pop() : null, apartmentLinks: document.querySelectorAll('a[href*="/Kozielska_A1V/"]').length }));
+  console.log('BUILDING PAGE direct load:');
+  console.log('  is404:', state.is404, '| canvases:', state.canvases, '| video:', state.video, '| apt links:', state.apartmentLinks);
+  console.log('  body:', state.txt);
+  console.log('  failed reqs:', JSON.stringify([...miss]));
+  await page.screenshot({ path: '_build/screenshots/building_page.png' });
+  await browser.close();
+})().catch((e) => { console.error('ERR', e); process.exit(1); });

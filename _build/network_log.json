@@ -1,0 +1,632 @@
+[
+ {
+  "url": "https://mieszkania.kozielskapark.pl/Kozielska/Zone_A",
+  "status": 200,
+  "type": "document",
+  "mime": "text/html; charset=utf-8",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/_next/static/chunks/webpack-4294890408b69a6f.js",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/_next/static/css/2df9c2e5bee8a439.css",
+  "status": 200,
+  "type": "stylesheet",
+  "mime": "text/css; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/_next/static/chunks/framework-2e2e0bfa8bda2099.js",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/_next/static/chunks/main-b3688e3471a4d9c2.js",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/icons/compas_Icon_01.svg",
+  "status": 200,
+  "type": "image",
+  "mime": "image/svg+xml",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/icons/logo.svg",
+  "status": 200,
+  "type": "image",
+  "mime": "image/svg+xml",
+  "length": ""
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/plans/1.3.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "17533"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/plans/1.1.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "17085"
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/static/site.webmanifest",
+  "status": 200,
+  "type": "manifest",
+  "mime": "application/manifest+json",
+  "length": ""
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/plans/1.6.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "15528"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/plans/1.2.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "13810"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/plans/1.4.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "16305"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/plans/1.5.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "11451"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/restauracja.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "115395"
+ },
+ {
+  "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
+  "status": 200,
+  "type": "font",
+  "mime": "font/woff2",
+  "length": "35508"
+ },
+ {
+  "url": "https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447",
+  "status": 200,
+  "type": "script",
+  "mime": "text/javascript;charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WdhyyTh89ZNpQ.woff2",
+  "status": 200,
+  "type": "font",
+  "mime": "font/woff2",
+  "length": "68224"
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/fonts/altone/Altone-Bold.ttf",
+  "status": 404,
+  "type": "font",
+  "mime": "text/html; charset=utf-8",
+  "length": ""
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/silownia.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "100769"
+ },
+ {
+  "url": "https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew9&skey=7bc19f711c0de8f&v=v31",
+  "status": 200,
+  "type": "font",
+  "mime": "text/html; charset=utf-8",
+  "length": "84128"
+ },
+ {
+  "url": "https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w9&skey=7bc19f711c0de8f&v=v31",
+  "status": 200,
+  "type": "font",
+  "mime": "text/html; charset=utf-8",
+  "length": "90396"
+ },
+ {
+  "url": "https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w9&skey=7bc19f711c0de8f&v=v31",
+  "status": 200,
+  "type": "font",
+  "mime": "text/html; charset=utf-8",
+  "length": "89860"
+ },
+ {
+  "url": "https://fonts.gstatic.com/l/font?kit=JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew9&skey=7bc19f711c0de8f&v=v31",
+  "status": 200,
+  "type": "font",
+  "mime": "text/html; charset=utf-8",
+  "length": "88500"
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/_next/static/chunks/ae51ba48-f6bb402177e7e1ff.js",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/centrummedyczne.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "98038"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/hotel.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "64474"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/drogeria.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "105713"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/warzywniak.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "119245"
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/_next/static/chunks/664-cbbc89331c4010bd.js",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/_next/static/chunks/893-1f0e4f6556e758d8.js",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/_next/static/chunks/153-c6faa1382c412ea4.js",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/supermarket.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "108139"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/miesny.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "112868"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/placzabaw.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "67890"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/ogrod.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "67757"
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/_next/static/ANU6VnI3Xn4hJixUdj7K3/_buildManifest.js",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/_next/static/ANU6VnI3Xn4hJixUdj7K3/_ssgManifest.js",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/_next/static/chunks/pages/%5Bproject%5D/%5Bzone%5D-26be85a602f3f570.js",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/_next/static/chunks/95b64a6e-5f1d5482a43c3774.js",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/_next/static/chunks/296-3a5e1879c9cf7e4c.js",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/_next/static/chunks/pages/_app-3c49609d86068bcb.js",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/hamaki.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "70455"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/kladka.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "64081"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/patiowejscie.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "60017"
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+  "status": 302,
+  "type": "script",
+  "mime": "",
+  "length": "0"
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/_next/static/chunks/603.512fc6bc0cb60ae8.js",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/api/lang",
+  "status": 500,
+  "type": "fetch",
+  "mime": "application/json; charset=utf-8",
+  "length": "26"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/patiowejsciedwa.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "65103"
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/cdn-cgi/challenge-platform/h/g/scripts/jsd/8fc8ed1d8752/main.js?",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://media.vinode.io/e/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero2_CameraKozielskaZoneHero2.mp4",
+  "status": 206,
+  "type": "media",
+  "mime": "video/mp4",
+  "length": "5755905"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/piekarnia.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "116863"
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/cdn-cgi/challenge-platform/h/g/jsd/oneshot/8fc8ed1d8752/0.5746802103576298:1781528723:49quhSFsXPoS1na8BlaUOcSQoM1ZQY7FjEB3cw5EyOo/a0c20f1a0a86cb4b",
+  "status": 200,
+  "type": "xhr",
+  "mime": "text/plain; charset=UTF-8",
+  "length": "0"
+ },
+ {
+  "url": "https://media.vinode.io/e/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero2_CameraKozielskaZoneHero1.mp4",
+  "status": 206,
+  "type": "media",
+  "mime": "video/mp4",
+  "length": "2232744"
+ },
+ {
+  "url": "https://media.vinode.io/e/VinodeKozielska/Kozielska4/h264/desktop/Sequencer_CameraKozielskaZoneHero1_CameraKozielskaZoneHero1.mp4",
+  "status": 206,
+  "type": "media",
+  "mime": "video/mp4",
+  "length": "4916257"
+ },
+ {
+  "url": "https://static.hotjar.com/c/hotjar-3508726.js?sv=6",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://connect.facebook.net/en_US/fbevents.js",
+  "status": 200,
+  "type": "script",
+  "mime": "application/x-javascript; charset=utf-8",
+  "length": "100140"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/zabka.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "108139"
+ },
+ {
+  "url": "https://script.hotjar.com/modules.c3d712579ef0b1b5af2a.js",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=utf-8",
+  "length": "57267"
+ },
+ {
+  "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5TPB49V",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": "124407"
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/api/apartmentsSide",
+  "status": 200,
+  "type": "fetch",
+  "mime": "application/json; charset=utf-8",
+  "length": ""
+ },
+ {
+  "url": "https://connect.facebook.net/signals/config/1902772970101946?v=2.9.338&r=stable&domain=mieszkania.kozielskapark.pl&hme=ed806287581422089c496fd485507306546b2937977788da80b80247d3e2e94b&ex_m=105%2C208%2C156%2C22%2C73%2C74%2C147%2C69%2C68%2C11%2C165%2C91%2C16%2C139%2C128%2C39%2C76%2C79%2C135%2C161%2C167%2C8%2C4%2C5%2C7%2C6%2C3%2C92%2C102%2C168%2C173%2C222%2C30%2C75%2C234%2C233%2C232%2C23%2C33%2C55%2C104%2C61%2C10%2C64%2C98%2C99%2C100%2C106%2C131%2C31%2C29%2C133%2C134%2C130%2C129%2C157%2C77%2C160%2C158%2C159%2C50%2C60%2C124%2C15%2C164%2C45%2C267%2C268%2C266%2C26%2C27%2C28%2C48%2C148%2C78%2C113%2C18%2C20%2C44%2C40%2C42%2C41%2C84%2C93%2C97%2C111%2C146%2C149%2C46%2C112%2C24%2C21%2C120%2C70%2C36%2C151%2C150%2C152%2C143%2C141%2C25%2C35%2C59%2C110%2C163%2C71%2C17%2C154%2C115%2C82%2C67%2C19%2C86%2C87%2C117%2C85%2C137%2C136%2C140%2C162%2C34%2C281%2C297%2C215%2C204%2C62%2C205%2C203%2C300%2C291%2C52%2C216%2C108%2C132%2C81%2C122%2C54%2C47%2C49%2C114%2C121%2C127%2C126%2C58%2C65%2C63%2C153%2C116%2C37%2C32%2C53%2C56%2C101%2C166%2C1%2C125%2C14%2C123%2C12%2C2%2C57%2C94%2C66%2C119%2C90%2C89%2C169%2C170%2C95%2C96%2C9%2C103%2C51%2C144%2C88%2C80%2C72%2C118%2C107%2C43%2C145%2C0%2C83%2C138%2C142%2C155%2C38%2C109%2C13%2C171",
+  "status": 200,
+  "type": "script",
+  "mime": "application/x-javascript; charset=utf-8",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/api/apartments?query=zone=Zone_A&building=&page=1&pageSize=2000",
+  "status": 200,
+  "type": "fetch",
+  "mime": "application/json; charset=utf-8",
+  "length": ""
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/kawiarnia.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "96045"
+ },
+ {
+  "url": "https://www.facebook.com/tr/?id=1902772970101946&ev=PageView&dl=https%3A%2F%2Fmieszkania.kozielskapark.pl%2FKozielska%2FZone_A&rl=&if=false&ts=1781531596525&iw=false&sw=800&sh=600&v=2.9.338&r=stable&ec=0&o=4126&aems=0%3B0&fbp=fb.1.1781531596517.74155585992433797&ler=empty&cdl=API_unavailable&pmd[title]=Kozielska&plt=8407.800000011921&iss=1&imft=1&tz=180&it=1781531595697&coo=false&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=ct3&expv2[6]=hf0&rqm=GET",
+  "status": 200,
+  "type": "image",
+  "mime": "text/plain",
+  "length": "0"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/jubiler.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "111119"
+ },
+ {
+  "url": "https://www.googletagmanager.com/gtag/js?id=G-TX2B0WGFRS&cx=c&gtm=4e66a1",
+  "status": 200,
+  "type": "script",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": "179896"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/kwiaciarnia.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "129575"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/paczkomat.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "83118"
+ },
+ {
+  "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-TX2B0WGFRS&gtm=45je66a1v9119267343z89119257840za20gzb9119257840zd9119257840&_p=1781531595337&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAAC&are=1&cid=1168205618.1781531597&frm=0&pscdl=noapi&rcb=12&sr=800x600&uaa=&uab=&uafvl=&uam=&uamb=0&uap=&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938468~117776794~119456239~119456247&sid=1781531597&sct=1&seg=0&dl=https%3A%2F%2Fmieszkania.kozielskapark.pl%2FKozielska%2FZone_A&dt=Kozielska&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=10557",
+  "status": 204,
+  "type": "fetch",
+  "mime": "text/plain",
+  "length": "0"
+ },
+ {
+  "url": "https://media.vinode.io/e//VinodeKozielska//Kozielska4/amenities/padel.png",
+  "status": 200,
+  "type": "image",
+  "mime": "image/png",
+  "length": "92661"
+ },
+ {
+  "url": "https://media.vinode.io/e/VinodeKozielska/Kozielska4/Thumbnails/Thumbnail_CameraKozielskaZoneA1.jpeg",
+  "status": 200,
+  "type": "image",
+  "mime": "image/jpeg",
+  "length": "18917"
+ },
+ {
+  "url": "https://media.vinode.io/e/VinodeKozielska/Kozielska4/Thumbnails/Thumbnail_CameraKozielskaZoneA2.jpeg",
+  "status": 200,
+  "type": "image",
+  "mime": "image/jpeg",
+  "length": "18431"
+ },
+ {
+  "url": "https://media.vinode.io/e/VinodeKozielska/Kozielska4/Thumbnails/Thumbnail_CameraKozielskaZoneA3.jpeg",
+  "status": 200,
+  "type": "image",
+  "mime": "image/jpeg",
+  "length": "18584"
+ },
+ {
+  "url": "https://media.vinode.io/e/VinodeKozielska/Kozielska4/Thumbnails/Thumbnail_CameraKozielskaZoneA4.jpeg",
+  "status": 200,
+  "type": "image",
+  "mime": "image/jpeg",
+  "length": "15845"
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/hdr/city_small.exr",
+  "status": 200,
+  "type": "fetch",
+  "mime": "application/octet-stream",
+  "length": "50305"
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/_next/data/ANU6VnI3Xn4hJixUdj7K3/Kozielska/Zone_A.json?project=Kozielska&zone=Zone_A",
+  "status": 200,
+  "type": "fetch",
+  "mime": "application/json",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/models/BuildingA_Outlines.glb",
+  "status": 200,
+  "type": "fetch",
+  "mime": "model/gltf-binary",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/draco/draco_wasm_wrapper.js",
+  "status": 200,
+  "type": "fetch",
+  "mime": "application/javascript; charset=UTF-8",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/draco/draco_decoder.wasm",
+  "status": 200,
+  "type": "fetch",
+  "mime": "application/wasm",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/models/BuildingB_Outlines.glb",
+  "status": 200,
+  "type": "fetch",
+  "mime": "model/gltf-binary",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/models/BuildingC_Outlines.glb",
+  "status": 200,
+  "type": "fetch",
+  "mime": "model/gltf-binary",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/models/BuildingD_Outlines.glb",
+  "status": 200,
+  "type": "fetch",
+  "mime": "model/gltf-binary",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/models/BuildingE_Outlines.glb",
+  "status": 200,
+  "type": "fetch",
+  "mime": "model/gltf-binary",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/models/BuildingF_Outlines.glb",
+  "status": 200,
+  "type": "fetch",
+  "mime": "model/gltf-binary",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/models/BuildingX_Outlines.glb",
+  "status": 200,
+  "type": "fetch",
+  "mime": "model/gltf-binary",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/cdn-cgi/rum?",
+  "status": 204,
+  "type": "xhr",
+  "mime": "text/plain",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/static/favicon.ong",
+  "status": 404,
+  "type": "other",
+  "mime": "text/html; charset=utf-8",
+  "length": ""
+ },
+ {
+  "url": "https://mieszkania.kozielskapark.pl/static/favicon.png",
+  "status": 200,
+  "type": "other",
+  "mime": "image/png",
+  "length": "1433"
+ },
+ {
+  "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-TX2B0WGFRS&gtm=45je66a1v9119267343za20gzb9119257840zd9119257840&_p=1781531595337&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQC&ae=a&are=1&cid=1168205618.1781531597&frm=0&pscdl=noapi&rcb=12&sr=800x600&uaa=&uab=&uafvl=&uam=&uamb=0&uap=&uapv=&uaw=0&ul=en-us&_s=2&tag_exp=115938466~115938468~117776794~119456239~119456247&sid=1781531597&sct=1&seg=1&dl=https%3A%2F%2Fmieszkania.kozielskapark.pl%2FKozielska%2FZone_A&dt=Kozielska&en=scroll&epn.percent_scrolled=90&_et=24799&tfd=40367",
+  "status": 204,
+  "type": "fetch",
+  "mime": "text/plain",
+  "length": "0"
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+  "tag": "IMG",
+  "cls": "FloatingUI__Compass-sc-af6d3cab-0 ejYNmA",
+  "txt": "",
+  "x": 1840,
+  "y": 1000,
+  "w": 116,
+  "h": 116
+ },
+ {
+  "tag": "CANVAS",
+  "cls": "Layoutstyle__Canvas-sc-24ce82a9-0 cqDCvc",
+  "txt": "",
+  "x": 960,
+  "y": 540,
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "tag": "NAV",
+  "cls": "ApartmentListNavstyled__Wrapper-sc-fa3ec",
+  "txt": "GŁÓWNA\nAPARTAMENTY\nU",
+  "x": 960,
+  "y": 43,
+  "w": 1080,
+  "h": 85
+ },
+ {
+  "tag": "BUTTON",
+  "cls": "sc-ellfmx KYqih",
+  "txt": "",
+  "x": 492,
+  "y": 49,
+  "w": 40,
+  "h": 40
+ },
+ {
+  "tag": "BUTTON",
+  "cls": "sc-cKRKlz uRXUy",
+  "txt": "GŁÓWNA",
+  "x": 760,
+  "y": 49,
+  "w": 68,
+  "h": 21
+ },
+ {
+  "tag": "BUTTON",
+  "cls": "sc-iIgiFO fnOpfS",
+  "txt": "APARTAMENTY",
+  "x": 873,
+  "y": 49,
+  "w": 109,
+  "h": 21
+ },
+ {
+  "tag": "BUTTON",
+  "cls": "sc-gstumR ljAilX",
+  "txt": "UDOGODNIENIA",
+  "x": 1011,
+  "y": 49,
+  "w": 120,
+  "h": 21
+ },
+ {
+  "tag": "BUTTON",
+  "cls": "sc-amjik gdafAR",
+  "txt": "LOKALIZACJE",
+  "x": 1144,
+  "y": 49,
+  "w": 98,
+  "h": 21
+ },
+ {
+  "tag": "BUTTON",
+  "cls": "Buttonstyles__Wrapper-sc-fd67abe4-0 jGDJ",
+  "txt": "KONTAKT",
+  "x": 1390,
+  "y": 49,
+  "w": 117,
+  "h": 41
+ },
+ {
+  "tag": "BUTTON",
+  "cls": "sc-jxFGMd iGRFce",
+  "txt": "SPRAWDŹ OFERTY",
+  "x": 960,
+  "y": 701,
+  "w": 202,
+  "h": 44
+ }
+]
