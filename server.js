@@ -10,8 +10,9 @@ const API = path.join(__dirname, 'api');
 const PORT = process.env.PORT || 8099;
 const PAGE = '/Kozielska/Zone_A';
 
-// The main Darak Group marketing site the navbar links back to (override in prod).
-const DARAK_SITE = process.env.DARAK_SITE || 'http://localhost:8765';
+// The main Darak Group marketing site the navbar links back to.
+// Defaults to the live GitHub Pages site; override with DARAK_SITE (e.g. http://localhost:8765 locally).
+const DARAK_SITE = process.env.DARAK_SITE || 'https://dahy1.github.io/Darak-Group';
 
 // Glass Darak navbar injected into every tour HTML page. Absolute (NOT fixed/sticky):
 // it overlays the top of the 3D hero and scrolls away with the page.
