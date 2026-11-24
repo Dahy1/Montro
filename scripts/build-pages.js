@@ -24,7 +24,8 @@ const { TEXT_EDITS, POI } = require('./montro-content');
 
 // voxdoc PDFs are never opened (the PDF placeholder shim blocks them) and would push
 // the site over GitHub Pages' 1 GB limit, so they are left out.
-const SKIP = new Set(['voxdoc', path.join('static', 'pdf'), '_' + 'darak']);
+const SKIP = new Set(['voxdoc', path.join('static', 'pdf'), '_' + 'darak',
+  ...['favicon.png', 'favicon.ong', 'apple-touch-icon.png', 'site.webmanifest'].map((f) => path.join('static', f))]);
 const TEXT = new Set(['.html', '.js', '.css', '.json', '.webmanifest']);
 
 // ---------- copy ----------
@@ -55,7 +56,10 @@ function rewrite(s, name) {
   s = s.replace(reAssets, `$1${BASE}/$2`);
   if (ext === '.html') {
     s = s.replace(/(["'(])\/_next\//g, `$1${BASE}/_next/`);
-    s = s.replace(/href="\/favicon/g, `href="${BASE}/favicon`);
+    // No favicon: drop the original icon/manifest links and set an empty icon
+    // so browsers don't fall back to /favicon.ico.
+    s = s.replace(/<link rel="(?:icon|shortcut icon|apple-touch-icon|manifest)"[^>]*>/g, '');
+    s = s.replace('</head>', '<link rel="icon" href="data:,"/></head>');
     // assetPrefix drives webpack's public path + route-loader CSS/JS for later chunks.
     s = s.replace(/(<script id="__NEXT_DATA__"[^>]*>\{)/, `$1"assetPrefix":"${BASE}",`);
     s = injectHead(s, SHIM);
@@ -135,11 +139,10 @@ for (const f of fs.readdirSync(zoneDir)) {
   }
 }
 
-// Root + 404 → the zone page .
-const redirect = `<!doctype html><meta charset="utf-8"><title>Montro Residence</title><meta http-equiv="refresh" content="0;url=${BASE}${ZONE}/"><script>location.replace(${JSON.stringify(BASE + ZONE + '/')})</script>`;
+// Root + 404 → the zone page.
+const redirect = `<!doctype html><meta charset="utf-8"><title>Montro Residence</title><link rel="icon" href="data:,"><meta http-equiv="refresh" content="0;url=${BASE}${ZONE}/"><script>location.replace(${JSON.stringify(BASE + ZONE + '/')})</script>`;
 fs.writeFileSync(path.join(OUT, 'index.html'), redirect);
 fs.writeFileSync(path.join(OUT, '404.html'), redirect);
-try { fs.copyFileSync(path.join(SRC, 'static', 'favicon.png'), path.join(OUT, 'favicon.ico')); } catch (e) {}
 fs.writeFileSync(path.join(OUT, '.nojekyll'), '');
 // Project logo (map pin + header) -> Montro wordmark.
 fs.writeFileSync(path.join(OUT, 'icons', 'logo.svg'), `<svg width="110" height="110" viewBox="0 0 110 110" fill="none" xmlns="http://www.w3.org/2000/svg">
